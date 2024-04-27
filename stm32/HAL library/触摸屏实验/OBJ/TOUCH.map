@@ -2936,37 +2936,37 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-       246          0          0          0          0       4499   24cxx.o
-       706        110          0          0          0       7173   ctiic.o
-       116          8          0          4          0       2663   delay.o
-      1398         76         20          7          0       5209   ft5206.o
-      1102         82        194          1          0       5922   gt9147.o
-       300         26          0          1          0       2190   key.o
-     14846        240       6080          4         14      28978   lcd.o
-       128         12          0          0          0       1291   led.o
-      1248        128         10          0          0     491434   main.o
-       716        112          0          0          0       6430   myiic.o
-       882         64         10          1          0       5571   ott2001a.o
-        64         26        304          0       1536        940   startup_stm32f103xe.o
-       152         32          0          9          0       7305   stm32f1xx_hal.o
-       344         22          0          0          0      31473   stm32f1xx_hal_cortex.o
-       424         10          0          0          0       1635   stm32f1xx_hal_dma.o
-       860         40          0          0          0       4147   stm32f1xx_hal_gpio.o
-         2          0          0          0          0        614   stm32f1xx_hal_msp.o
-      1784        110          0          0          0       7644   stm32f1xx_hal_rcc.o
-       252         22          0          0          0       3992   stm32f1xx_hal_tim.o
-      1352         10          0          0          0      10931   stm32f1xx_hal_uart.o
-        32          0          0          0          0       5546   stm32f1xx_it.o
-        86          0          0          0          0        895   sys.o
-        88         18         24          4          0       1683   system_stm32f1xx.o
-      3988        264        125         54          0      14137   touch.o
-       456         52          0          7        264       6901   usart.o
-      3198       1354         40         28         64      10159   usmart.o
-         0          0        107        276          0       2180   usmart_config.o
-      1400         20          0          0          0      11041   usmart_str.o
+       246          0          0          0          0       3503   24cxx.o
+       706        110          0          0          0       5521   ctiic.o
+       116          8          0          4          0       2007   delay.o
+      1398         76         20          7          0       4225   ft5206.o
+      1102         82        194          1          0       4774   gt9147.o
+       300         26          0          1          0       1694   key.o
+     14846        240       6080          4         14      24850   lcd.o
+       128         12          0          0          0        959   led.o
+      1248        128         10          0          0     488298   main.o
+       716        112          0          0          0       4950   myiic.o
+       882         64         10          1          0       4419   ott2001a.o
+        64         26        304          0       1536        832   startup_stm32f103xe.o
+       152         32          0          9          0       6149   stm32f1xx_hal.o
+       344         22          0          0          0      30153   stm32f1xx_hal_cortex.o
+       424         10          0          0          0       1307   stm32f1xx_hal_dma.o
+       860         40          0          0          0       3483   stm32f1xx_hal_gpio.o
+         2          0          0          0          0        446   stm32f1xx_hal_msp.o
+      1784        110          0          0          0       6316   stm32f1xx_hal_rcc.o
+       252         22          0          0          0       3168   stm32f1xx_hal_tim.o
+      1352         10          0          0          0       8767   stm32f1xx_hal_uart.o
+        32          0          0          0          0       4058   stm32f1xx_it.o
+        86          0          0          0          0        731   sys.o
+        88         18         24          4          0       1191   system_stm32f1xx.o
+      3988        264        125         54          0      11505   touch.o
+       456         52          0          7        264       5569   usart.o
+      3198       1354         40         28         64       8007   usmart.o
+         0          0        107        276          0       1688   usmart_config.o
+      1400         20          0          0          0       9053   usmart_str.o
 
     ----------------------------------------------------------------------
-     36202       2838       6950        404       1880     682583   Object Totals
+     36202       2838       6950        404       1880     647623   Object Totals
          0          0         32          0          0          0   (incl. Generated)
         32          0          4          8          2          0   (incl. Padding)
 
@@ -3059,8 +3059,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     41658       3092       7010        404       1980     676275   Grand Totals
-     41658       3092       7010        108       1980     676275   ELF Image Totals (compressed)
+     41658       3092       7010        404       1980     641315   Grand Totals
+     41658       3092       7010        108       1980     641315   ELF Image Totals (compressed)
      41658       3092       7010        108          0          0   ROM Totals
 
 ==============================================================================
