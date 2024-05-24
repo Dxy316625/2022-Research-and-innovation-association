@@ -1,0 +1,48 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/ysc/track_ball/devel/include/**",
+        "/home/ysc/height_map_ws/devel/include/**",
+        "/home/ysc/microphone-deeprobotics/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/ysc/realsense-driver-jetson/devel/include/**",
+        "/home/ysc/realsense-driver-jetson/src/ddynamic_reconfigure-kinetic-devel/include/**",
+        "/home/ysc/height_map_ws/src/local_height_map/deeprobotics_local_height_map/include/**",
+        "/home/ysc/track_ball/src/detect_ball/include/**",
+        "/home/ysc/dispatch_ws/src/dispatch/include/**",
+        "/home/ysc/height_map_ws/src/libraries/grid_map-1.6.2/grid_map_core/include/**",
+        "/home/ysc/height_map_ws/src/libraries/grid_map-1.6.2/grid_map_costmap_2d/include/**",
+        "/home/ysc/height_map_ws/src/libraries/grid_map-1.6.2/grid_map_cv/include/**",
+        "/home/ysc/height_map_ws/src/libraries/grid_map-1.6.2/grid_map_demos/include/**",
+        "/home/ysc/height_map_ws/src/libraries/grid_map-1.6.2/grid_map_filters/include/**",
+        "/home/ysc/height_map_ws/src/libraries/grid_map-1.6.2/grid_map_loader/include/**",
+        "/home/ysc/height_map_ws/src/libraries/grid_map-1.6.2/grid_map_octomap/include/**",
+        "/home/ysc/height_map_ws/src/libraries/grid_map-1.6.2/grid_map_pcl/include/**",
+        "/home/ysc/height_map_ws/src/libraries/grid_map-1.6.2/grid_map_ros/include/**",
+        "/home/ysc/height_map_ws/src/libraries/grid_map-1.6.2/grid_map_rviz_plugin/include/**",
+        "/home/ysc/height_map_ws/src/libraries/grid_map-1.6.2/grid_map_sdf/include/**",
+        "/home/ysc/height_map_ws/src/libraries/grid_map-1.6.2/grid_map_visualization/include/**",
+        "/home/ysc/height_map_ws/src/libraries/kindr/include/**",
+        "/home/ysc/height_map_ws/src/libraries/kindr_ros/kindr_ros/include/**",
+        "/home/ysc/height_map_ws/src/libraries/kindr_ros/kindr_rviz_plugins/include/**",
+        "/home/ysc/height_map_ws/src/driver/message_transformer_cpp/include/**",
+        "/home/ysc/height_map_ws/src/driver/message_transformer_cpp_parking/include/**",
+        "/home/ysc/people_track_ws/src/message_transformer_cpp_people/include/**",
+        "/home/ysc/track_ball/src/message_transformer_cpp_track_ball/include/**",
+        "/home/ysc/height_map_ws/src/libraries/kindr_ros/multi_dof_joint_trajectory_rviz_plugins/include/**",
+        "/home/ysc/realsense-driver-jetson/src/realsense-ros-development/realsense2_camera/include/**",
+        "/home/ysc/ultrasound_ws/src/ultrasound/include/**",
+        "/home/ysc/track_ball/src/usb_cam/include/**",
+        "/home/ysc/microphone-deeprobotics/src/xf_mic_asr_offline/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
