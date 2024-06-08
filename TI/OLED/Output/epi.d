@@ -1,0 +1,11 @@
+..\..\output\epi.o: ..\..\Libraries\driverlib\epi.c
+..\..\output\epi.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+..\..\output\epi.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\epi.o: ..\..\Libraries\inc\hw_epi.h
+..\..\output\epi.o: ..\..\Libraries\inc\hw_ints.h
+..\..\output\epi.o: ..\..\Libraries\inc\hw_memmap.h
+..\..\output\epi.o: ..\..\Libraries\inc\hw_sysctl.h
+..\..\output\epi.o: ..\..\Libraries\inc\hw_types.h
+..\..\output\epi.o: ..\..\Libraries\driverlib\debug.h
+..\..\output\epi.o: ..\..\Libraries\driverlib\epi.h
+..\..\output\epi.o: ..\..\Libraries\driverlib\interrupt.h
